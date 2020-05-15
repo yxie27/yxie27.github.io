@@ -5,7 +5,7 @@ title: First Blog Post
 
 - What do you think being a data scientist is about?  
 
-Data science can be described as the description, prediction, and causal inference from both structured and unstructured data. Being a data scientist helps individuals and enterprises make better business decisions.
+Data science can be described as the description, prediction, and causal inference from both structured and unstructured data. Being a data scientist helps individuals and enterprises make better business decisions and helps businesses achieve sustainable growth.
 
 - What do you see as the major duties and/or knowledge areas?  
 
