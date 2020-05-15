@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi, I'm Yilin, I'm in traditional statistics master program at North Carolina State University.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I like watching suspense movies, I like cats and dogs and I'm about to have my own little puppy at the end of June!!
 
 ### Contact me
 
