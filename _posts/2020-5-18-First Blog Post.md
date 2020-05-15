@@ -7,6 +7,9 @@ title: First Blog Post
 
 2. What do you see as the major duties and/or knowledge areas?  
 
+Knowledge areas: computer science, mathematics/statistics, and specific domain knowledge.  
+Major duties: focusing on solving specific problems, in contrast with the type of deep understanding that is typical in academic statistics.
+
 3. What differences/similarities do you see between data scientists and statisticians?  
 
 Differences: The fields differ in modeling processes, the size of data consumed, the types of problems studied, the academic background of the people in the field, and the terminology used.  
