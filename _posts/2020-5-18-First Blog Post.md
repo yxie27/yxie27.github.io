@@ -19,4 +19,6 @@ Differences: the fields differ in modeling processes, the size of data consumed,
              
 Similarities: both of them need a solid foundation in statistics.
 
-- How do you view yourself in relation to these two areas?
+- How do you view yourself in relation to these two areas?  
+
+In my opinion, the foundation of being a great data scientist is to be a good statistician. And more importantly, the core foundation of being good at these two areas is studying hard in your course ST558 :).
