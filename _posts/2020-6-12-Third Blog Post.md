@@ -10,4 +10,4 @@ The most difficult part for me is to connect repo to my RStudio. At the very beg
 - What are your big take-aways from this project?  
 My take-aways from this project is that I learned to connect repo to RStudio, it's a particularly convenient way to upload my changes to remote, wherever I am, and I think this can also be used well on group projects in the future, different people can upload their changes to the same place, and can also view historical changes.  
 
-[My project link](https://yxie27.github.io/Project1/)
+[Here is the link of my project](https://yxie27.github.io/Project1/)
