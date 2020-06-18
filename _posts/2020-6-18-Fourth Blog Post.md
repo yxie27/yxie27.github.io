@@ -1,3 +1,8 @@
+---
+layout: post
+title: Fourth Blog Post
+---
+
 - How is the course going so far?  
 I felt good from module 1 to exam 1, but I felt so lost after I watched the video of module 8, I felt that the course content suddenly becomes difficult, especially the last two videos of module 8, and I saw that there are much more videos to watch from module 9, so many assignments need to do, the time is extremely tight for me.  
 
